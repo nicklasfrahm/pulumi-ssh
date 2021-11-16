@@ -1,0 +1,11 @@
+{
+    "name": "ts-file",
+    "version": "0.1.0",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "latest",
+        "@pulumi/ssh": "latest"
+    }
+}
